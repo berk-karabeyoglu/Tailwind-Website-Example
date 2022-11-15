@@ -1,3 +1,3 @@
-# Tailwind-Website-Example
+# Tailwind-Website
 
 This is the website I just implemented by using TailwindCSS, HTML, some pure CSS and also a little bit of JS...
