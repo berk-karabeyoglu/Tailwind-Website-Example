@@ -18,6 +18,8 @@ module.exports = {
         veryDarkBlue: "hsl(233,12%,13%)",
         veryPaleRed: "hsl(13,100%,96%)",
         veryLightGray: "hsl(0,0%,98%)",
+        depodoneBlue: "hsl(265, 100%, 46%)",
+        depodoneGreen: "hsl(76, 73%, 44%)",
       },
     },
   },

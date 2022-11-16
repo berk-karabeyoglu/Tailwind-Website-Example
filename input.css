@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
 
 @media(min-width:1032px){
 #logo-logo:hover {
@@ -14,6 +21,7 @@ body {
     background-repeat: no-repeat;
     background-size: 1200px;
     background-position: 90% -25%;
+   
 }
 
 #cta {
