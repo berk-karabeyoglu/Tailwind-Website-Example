@@ -20,6 +20,7 @@ module.exports = {
         veryLightGray: "hsl(0,0%,98%)",
         depodoneBlue: "hsl(265, 100%, 46%)",
         depodoneGreen: "hsl(76, 73%, 44%)",
+        loginButtonBlue: "rgb(75, 89, 148)",
       },
     },
   },
